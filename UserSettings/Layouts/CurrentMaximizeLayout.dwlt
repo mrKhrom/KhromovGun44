@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 16977
+  controlID: 23243
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 16978
+  controlID: 23244
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -177,7 +177,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 16909
+  controlID: 23167
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -242,9 +242,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f4680000
-      m_LastClickedID: 26868
-      m_ExpandedIDs: 5efbfeff7afcfeffac13ffff5c56ffff3aefffff4cf4ffff58f9ffff60f9ffff7af9ffffcaf9ffff0efbffff
+      m_SelectedIDs: a0abfdff
+      m_LastClickedID: -152672
+      m_ExpandedIDs: e0aafdffd6abfdff32b9fdffcecffdff28d1fdff72dcfdff5efbfeff7afcfeffac13ffff5c56ffff3aefffff4cf4ffff58f9ffff60f9ffff7af9ffffcaf9ffff0efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -741,9 +741,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 12.627472, y: -7.4152718, z: 6.6888876}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0}
+    m_Value: {x: 12.627472, y: -7.4152718, z: 6.6888876}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -789,13 +789,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.21976365, y: 0.62069136, z: -0.18714792, w: 0.72903484}
+    m_Target: {x: 0.42944184, y: 0.5625608, z: -0.5585946, w: 0.43261042}
     speed: 2
-    m_Value: {x: 0.21975598, y: 0.62066966, z: -0.18714137, w: 0.7290094}
+    m_Value: {x: 0.4294258, y: 0.5625398, z: -0.5585737, w: 0.43259427}
   m_Size:
-    m_Target: 10
+    m_Target: 23.93668
     speed: 2
-    m_Value: 10
+    m_Value: 23.93668
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -845,7 +845,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 16979
+  controlID: 23245
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -921,7 +921,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Prefabs/Blocks
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -929,7 +929,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Prefabs/Blocks
   m_LastFoldersGridSize: 16
   m_LastProjectPath: /Users/alekseykhromov/Library/Mobile Documents/com~apple~CloudDocs/My
     Cloud/GameDev/UnityProjects/TankPrototipe
@@ -937,9 +937,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 43.5}
-    m_SelectedIDs: 36670000
-    m_LastClickedID: 26422
-    m_ExpandedIDs: 00000000e66600005467000056670000586700007a680000269e000046c000004ac0000000ca9a3b
+    m_SelectedIDs: 269e0000
+    m_LastClickedID: 40486
+    m_ExpandedIDs: 00000000e6660000366700005467000056670000586700007a680000269e000046c000004ac0000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -992,8 +992,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: f4680000
-    m_LastClickedInstanceID: 26868
+    m_SelectedInstanceIDs: a0abfdff
+    m_LastClickedInstanceID: -152672
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 00000000000000000000000000000000000000000000000000000000de730000e473000000000000ca010000
     m_RenameOverlay:
@@ -1163,7 +1163,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -127882
+  m_LastSelectedObjectID: -152672
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1317,7 +1317,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 60.60003
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:

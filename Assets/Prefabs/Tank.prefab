@@ -25,8 +25,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 97109518395241287}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.031242225, y: 4.9752677e-16, z: 5.8984918e-18, w: 0.99951184}
-  m_LocalPosition: {x: 0, y: 1.8571428, z: -7.5714293}
+  m_LocalRotation: {x: 0.077666104, y: 0.0000000013709124, z: -1.0679605e-10, w: 0.9969795}
+  m_LocalPosition: {x: 0, y: 2.857143, z: -7.5714293}
   m_LocalScale: {x: 1.4285715, y: 1.4285713, z: 1.4285713}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -51,13 +51,13 @@ MonoBehaviour:
   m_StreamingVersion: 20170927
   m_Priority: 10
   m_StandbyUpdate: 2
-  m_LookAt: {fileID: 2579954434061980577}
+  m_LookAt: {fileID: 6131725789340621845}
   m_Follow: {fileID: 8244432167745575101}
   m_Lens:
     FieldOfView: 40
     OrthographicSize: 5
-    NearClipPlane: 0.3
-    FarClipPlane: 1000
+    NearClipPlane: 0.1
+    FarClipPlane: 5000
     Dutch: 0
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
@@ -324,7 +324,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 1
-  m_FollowOffset: {x: 0, y: 1.3, z: -5.3}
+  m_FollowOffset: {x: 0, y: 2, z: -5.3}
   m_XDamping: 0.6
   m_YDamping: 0.6
   m_ZDamping: 0.6
@@ -1047,7 +1047,7 @@ MonoBehaviour:
   _gunAngleLimit:
     Min: -25
     Max: 25
-  _horRotateSpeed: 15
+  _horRotateSpeed: 30
   _vertRotateSpeed: 1
   <FirePoint>k__BackingField: {fileID: 6131725789340621845}
   _controller: {fileID: 9151172126462320770}
@@ -1243,7 +1243,7 @@ MonoBehaviour:
   _slipLimit: 0.3
   _reverseMult: 0.4
   _maxSpeedFOV: 200
-  _fov: {x: 40, y: 40}
+  _fov: {x: 40, y: 90}
   _debugTorque: 0
 --- !u!82 &3647076864353286548
 AudioSource:
